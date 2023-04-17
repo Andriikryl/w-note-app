@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/w-note-app/static/css/main.47ba1db7.css",
+    "main.js": "/w-note-app/static/js/main.3aa97b6f.js",
+    "index.html": "/w-note-app/index.html",
+    "main.47ba1db7.css.map": "/w-note-app/static/css/main.47ba1db7.css.map",
+    "main.3aa97b6f.js.map": "/w-note-app/static/js/main.3aa97b6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ba1db7.css",
+    "static/js/main.3aa97b6f.js"
+  ]
+}
